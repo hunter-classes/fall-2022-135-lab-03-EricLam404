@@ -1,10 +1,10 @@
 * Fall 2022 - Lab 03
 
-* Last name:
+* Last name: Lam
 
-* First name:
+* First name: Eric
 
-* GitHub username:
+* GitHub username: EricLam404
 
 * Notes:
 
