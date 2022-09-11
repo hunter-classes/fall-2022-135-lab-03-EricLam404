@@ -1,7 +1,7 @@
 a.out
 main
 reservoir.h
-reservoir.out
-main.out
+reservoir.o
+main.o
 reverseorder.h
 reverseorder.o
